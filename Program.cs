@@ -14,7 +14,7 @@ namespace atividadecidades
             Console.WriteLine("Praia Grande");
             Console.WriteLine("Itariri");
             Console.WriteLine("Peruibe");
-            Console.WriteLine("Itariri");
+            Console.WriteLine("Pedro de Toledo");
         }
     }
 }
