@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.exe
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.deps.json
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.dll
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\bin\Debug\netcoreapp3.1\atividadecidades.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.dll
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadecidades\obj\Debug\netcoreapp3.1\atividadecidades.genruntimeconfig.cache
